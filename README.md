@@ -46,4 +46,5 @@ Stop at any moment.
 This is not about the author.  
 If it works — use it.  
 If it doesn’t — ignore it.
+
 If you ever win Nobel's prize with it - you owe me a beer.
