@@ -1,6 +1,6 @@
 # Axes
 
-Axes is a small thought-game.
+Axes is a small thought-game for AI chat interaction.
 
 It is not a test.  
 It has no correct answers.  
