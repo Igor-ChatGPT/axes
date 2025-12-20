@@ -48,3 +48,7 @@ If it works — use it.
 If it doesn’t — ignore it.
 
 If you ever win Nobel's prize with it - you owe me a beer.
+
+
+If you want to leave a trace:
+https://buymeacoffee.com/igor_chatgpt
