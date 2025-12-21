@@ -13,7 +13,7 @@ It does not try to explain anything.
 1. Open the file `Axes.game`
 2. Copy its entire contents
 3. Paste it into a prompt for an AI chat (tested with chatGPT5+ only)
-4. Send
+4. Send (Yes - those 24 lines are the entire “code” of the game.)
 
 The game starts there.  
 All questions and instructions are inside the game itself.
